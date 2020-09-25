@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListViewAssignment2</string>
+
+    <string-array name="Name">
+        <item>Amrita Pritam</item>
+        <item>Yashpal</item>
+        <item>Kamleshwar</item>
+        <item>Premchand</item>
+        <item>Surdash</item>
+        <item>Kabir Das</item>
+        <item>Vishnu Prabhakar</item>
+        <item>Bhisham Sahni</item>
+        <item>Krishna Sobti</item>
+        <item>Dharamveer Bharti</item>
+    </string-array>
+
+</resources>
